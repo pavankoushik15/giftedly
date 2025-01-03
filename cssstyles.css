@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,400;1,700&family=Open+Sans:ital,wght@1,400;1,500&family=Playfair+Display&display=swap");
 
 :root {
-  --pink: #ed8694;
+  --blue: #afeeee;
 }
 
 * {
@@ -19,7 +19,7 @@
 }
 
 *::selection {
-  background: var(--pink);
+  background: var(--blue);
   color: #1a1515;
 }
 
@@ -43,7 +43,7 @@ section {
   font-size: 3rem;
   color: #1e1010;
   padding-left: 1rem;
-  border-left: 0.4rem solid var(--pink);
+  border-left: 0.4rem solid var(--blue);
   margin-top: 1rem;
   margin-bottom: 3rem;
 }
@@ -72,7 +72,7 @@ section {
   align-items: center;
   justify-content: space-between;
   padding: 2rem 9%;
-  background: var(--pink);
+  background: var(--blue);
 }
 
 .header-1 {
@@ -157,7 +157,7 @@ section {
 }
 
 .header-3 a:hover {
-  color: var(--pink);
+  color: var(--blue);
 }
 
 #menu-bar {
