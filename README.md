@@ -1,4 +1,4 @@
-(https://github.com/Manu270/giftedly-website/assets/112813299/04dc7cb7-ef4d-4e2a-9639-8de5ffe3de3c)# E-Gifting Platform
+[(https://github.com/pavankoushik15/giftedly.git)]# E-Gifting Platform
 
 ## Table of Contents
 
@@ -89,12 +89,6 @@ The infrastructure requirements for the e-gifting platform involve:
 - Push to the branch (`git push origin feature/improvement`).
 - Create a new Pull Request.
 
----
-![Screenshot 2024-04-20 222731](https://github.com/Manu270/giftedly-website/assets/112813299/d52bb707-0c53-4ca0-8151-bf633db05102)
-![Screenshot 2024-04-20 222841](https://github.com/Manu270/giftedly-website/assets/112813299/25ac46e4-fd8c-42d6-8981-ba4f7388a67e)
-![Screenshot 2024-04-20 223050](https://github.com/Manu270/giftedly-website/assets/112813299/17bd5568-c3c1-4361-9b8c-ebf3045dc7c8)
-![Screenshot 2024-04-20 221409](https://github.com/Manu270/giftedly-website/assets/112813299/6963dacc-e7dc-4d90-adcc-4337dc1749cf)
-![Screenshot 2024-04-20 221506](https://github.com/Manu270/giftedly-website/assets/112813299/a93e3cf5-8d31-42a6-b2c7-71f8c9375b56)
 
 ## License
 
